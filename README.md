@@ -1,3 +1,3 @@
 # Project_Oscillateur_Harmonique
 
-Solve the Harmonic Oscillator equation (the plot are shown using Matlab)
+Solve the Harmonic Oscillator equation (the plots are shown using Matlab)
